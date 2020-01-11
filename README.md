@@ -1,4 +1,9 @@
+# react-ui
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+This is a sample UI that uses an API from bff.
+In development the bff is running at <http://localhost:51239>.
 
 ## Available Scripts
 
