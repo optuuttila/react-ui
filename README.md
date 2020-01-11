@@ -1,4 +1,4 @@
-# react-ui <https://github.com/optuuttila/react-ui/workflows/Node%20CI/badge.svg>
+# react-ui ![](https://github.com/optuuttila/react-ui/workflows/Node%20CI/badge.svg)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
